@@ -55,7 +55,7 @@ const ParcelInfo = () => {
       >
         <center>
           <label>
-            <h2>Parcel Info</h2>
+            <h2>Event Info</h2>
             <hr />
             <br />
           </label>
